@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Update teacher</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../../css/commondashboardstyle.css">
+  
+</head>
+<body>
+  <script type="text/javascript" src="../../js/jquery-3.5.1.js"></script>
+  <script src="../../js/extras/jquery.validate.js"></script>
+  <script type="text/javascript" src="../../js/admin/manageteacherfromadmin.js"></script>
+
+  <div class="row">
+    <div class="col-md-12">
+      <a href="../index.html"><img src="../../images/header.jpg" width=100%></a>
+    </div>
+    
+  </div>
+
+  <div class="row">
+    <div class="col-md-12">
+      
+    </div>
+    
+  </div>
+
+  <div class="row" >
+
+    <div class="col-md-4">
+      <div class="middle">
+        <div class="menu">
+          <li class="item" id='profile'>
+              <a href="#profile" class="btn"><i class="far fa-user"></i>Profile</a>
+              <div class="smenu">
+                <a href="updateadminprofile.html">Update Profile</a>
+                <a href="createteacher.html">Create Teacher Profile</a>
+                <a href="createstudent.html">Create Student Profile</a>
+                
+              </div>
+          </li>
+
+          <li class="item" id="messages">
+              <a href="#messages" class="btn"><i class="far fa-envelope"></i>Manage</a>
+                <div class="smenu">
+                  <a href="manageteacher.html">Manage Teacher</a>
+                  <a href="managestudent.html">Manage Student</a>
+                  <a href="manageclass.html">Manage Classes</a>
+                  <a href="managesection.html">Manage Section</a>
+                  <a href="createsection.html">Create Section</a>
+                  <a href="updatesection.html">Update Section</a>
+                </div>
+          </li>
+
+          <li class="item" id="settings">
+            <a href="#settings" class="btn"><i class="fas fa-cog"></i>Check</a>
+              <div class="smenu">
+                <a href="updateteacher.html">Update Teacher Information</a>
+                <a href="updatestudent.html">Update Student Information</a>
+                <a href="updatesection.html">Update Section</a>
+                <a href="finantialreport.html">Check Financials</a>
+                <a href="createnotice.html">Create Notice</a>
+                <a href="managenotices.html">Manage Notices</a>
+              </div>
+          </li>
+
+
+          <li class="item">
+               <a class="btn" href="../login.html"><i class="fas fa-sign-out-alt"></i>Logout</a>
+           </li>
+
+  
+        </div>
+    </div>
+  </div>
+    
+      <div class="col-md-1">
+        
+      </div>
+
+  
+      <div class="col-md-6"style="margin-top: 30px">
+        <a href="admindashboard.html">Back to Home</a>
+        <h4>Admin Page</h4>
+				<br>
+        <br>
+        <form action="" method="" id="update_teacher_from_admin">
+				<fieldset>
+					<h5>Update Teacher Profile</h5>
+        <table border="0">
+          
+          <tr>
+            <td>
+              <label>Select Teacher:</label>
+            </td>
+            <td>
+              <select id="Teacherdropdown">
+                
+              </select>
+            </td>
+          </tr>
+  
+          <tr>
+            <td>
+              <label>Teacher ID:</label>
+            </td>
+            <td>
+              <input type="text" name="teacherid" id="teacherid" readonly="">
+            </td>
+          </tr>
+  
+          <tr>
+            <td>
+              <label>Teacher Name:</label>
+            </td>
+            <td>
+              <input type="text" name="teachername" id="teachername">
+            </td>
+          </tr>
+  
+          <tr>
+            <td>
+              <label>Teacher Password:</label>
+            </td>
+            <td>
+              <input type="text" name="teacherpassword" id="teacherpassword">
+            </td>
+          </tr>
+
+          <tr>
+            <td>
+              <label>Teacher Blood Group:</label>
+            </td>
+            <td>
+              <select id="tbg" name="tbg">
+                <option selected>Select One</option>
+                <option value="A+">A+</option>
+                <option value="B+">B+</option>
+                <option value="A-">A-</option>
+                <option value="AB+">AB+</option>
+                <option value="AB-">AB-</option>
+                <option value="O+">O+</option>
+                <option value="O-">O-</option>
+              </select>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <label>Teacher Email:</label>
+            </td>
+            <td>
+              <input type="text" name="teacheremail" id="teacheremail">
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <label>Subject Taking:</label>
+            </td>
+            <td>
+              <select id="subjectid" name="subjectid">
+                
+              </select>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <label>Teacher Phone Number:</label>
+            </td>
+            <td>
+              <input type="text" name="teacherphone" id="teacherphone">
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <label>Teacher Salary:</label>
+            </td>
+            <td>
+              <input type="text" name="teachersalary" id="teachersalary">
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <label>Class:</label>
+            </td>
+            <td>
+              <select id="classid" name="classid">
+                
+              </select>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <label>Section</label>
+            </td>
+            <td>
+              <select name="sectionid" id="sectionid">
+
+              </select>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <button id="updateteacherbtn"> Update</button>
+              <div id="updatemessage">
+                
+              </div>
+            </td>
+            <td>
+              <button id="deletebutton">Delete</button>
+              <div id="deletemessage">
+                
+              </div>
+            </td>
+          </tr>
+        </table>
+        </fieldset>
+        </form>
+      </div>
+
+      <!-- <div class="col-md-1">
+        
+      </div> -->
+    
+  </div>
+
+</body>
+</html>

@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>test</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../../css/commondashboardstyle.css">
+  
+</head>
+<body>
+	<script type="text/javascript" src="../../js/jquery-3.5.1.js"></script>
+  <script src="../../js/extras/jquery.validate.js"></script>
+  <script type="text/javascript" src="../../js/superadmin/updatesuperadmin.js"></script>
+
+  <div class="row">
+    <div class="col-md-12">
+      <a href="../index.html"><img src="../../images/header.jpg" width=100%></a>
+    </div>
+    
+  </div>
+
+  <div class="row">
+    <div class="col-md-12">
+      
+    </div>
+    
+  </div>
+
+  <div class="row">
+    <div class="col-md-4">
+      
+    
+      <div class="middle">
+        <div class="menu">
+          <li class="item" id='profile'>
+              <a href="#profile" class="btn"><i class="far fa-user"></i>Profile</a>
+              <div class="smenu">
+                <a href="updatesuperadmin.html">Update Profile</a>
+                
+              </div>
+          </li>
+
+          <li class="item" id="messages">
+              <a href="#messages" class="btn"><i class="far fa-envelope"></i>Manage</a>
+                <div class="smenu">
+                  <a href="managesuperadmin.html">Manage SuperAdmin</a>
+                  <a href="superadmindashboard.html">Create Admin</a>
+                  <a href="updateadmin.html">Update Admin</a>
+                </div>
+           </li>
+
+          <li class="item" id="settings">
+              <a href="#settings" class="btn"><i class="fas fa-cog"></i>Settings</a>
+                <div class="smenu">
+                  <a href="#">Update Password</a>
+                </div>
+          </li>
+
+          <li class="item">
+            <a class="btn" href="../login.html"><i class="fas fa-sign-out-alt"></i>Logout</a>
+           </li>
+
+  
+        </div>
+    </div>
+  </div>
+    
+      <div class="col-md-1">
+        
+      </div>
+
+  
+    <div class="col-md-6"style="margin-top: 30px">
+      <form action="" method="" id="update_superadmin_from_superadmin">
+        <h3>SuperAdmin Page</h3>
+        <br>
+        <h5><b>Update SuperAdmin</b></h5>
+        <br>
+      <table >
+        <tr>
+          <td>
+            <label>SuperAdmin ID:</label>
+          </td>
+          <td>
+            <input type="text" name="superadminid" id="superadminid" readonly="">
+          </td>
+        </tr>
+
+        <tr>
+          <td>
+            <label>SuperAdmin Name:</label>
+          </td>
+          <td>
+            <input type="text" name="superadminname" id="superadminname">
+          </td>
+        </tr>
+
+        <tr>
+          <td>
+            <label>SuperAdmin Password:</label>
+          </td>
+          <td>
+            <input type="text" name="superadminpassword" id="superadminpassword">
+          </td>
+        </tr>
+        <!-- <tr>
+          <td colspan="2" align="middle">
+            <button id="updatesuperadminbtn"> Update</button>
+            <div id="updatemessage">
+            	
+            </div>
+          </td>
+        </tr> -->
+      </table>
+      <br>
+      <input type="button" value="Update" id="updatesuperadminbtn">
+      <!-- <button id="updatesuperadminbtn" style="margin-left:180px"> Update</button> -->
+            <div id="updatemessage" style="margin-left:180px">
+    </form>
+    </div>
+    
+  
+
+<!--   
+    <div class="col-md-2">
+      
+    </div>
+    
+  </div> -->
+
+</body>
+</html>

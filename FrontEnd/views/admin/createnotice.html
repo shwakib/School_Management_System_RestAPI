@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>test</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../../css/commondashboardstyle.css">
+
+</head>
+<body>
+
+  <script type="text/javascript" src="../../js/jquery-3.5.1.js"></script>
+  	<script type="text/javascript" src="../../js/admin/createnoticce.js"></script>
+
+  <div class="row">
+    <div class="col-md-12">
+      <a href="../index.html"><img src="../../images/header.jpg" width=100%></a>
+    </div>
+
+  </div>
+
+  <div class="row">
+    <div class="col-md-12">
+
+    </div>
+
+  </div>
+
+  <div class="row">
+    <div class="col-md-4">
+
+
+      <div class="middle">
+        <div class="menu">
+          <li class="item" id='profile'>
+              <a href="#profile" class="btn"><i class="far fa-user"></i>Profile</a>
+              <div class="smenu">
+                <a href="updateadminprofile.html">Update Profile</a>
+                <a href="createteacher.html">Create Teacher Profile</a>
+                <a href="createstudent.html">Create Student Profile</a>
+                
+              </div>
+          </li>
+
+          <li class="item" id="messages">
+              <a href="#messages" class="btn"><i class="far fa-envelope"></i>Manage</a>
+                <div class="smenu">
+                  <a href="manageteacher.html">Manage Teacher</a>
+                  <a href="managestudent.html">Manage Student</a>
+                  <a href="manageclass.html">Manage Classes</a>
+                  <a href="managesection.html">Manage Section</a>
+                  <a href="createsection.html">Create Section</a>
+                  <a href="updatesection.html">Update Section</a>
+                </div>
+          </li>
+
+          <li class="item" id="settings">
+            <a href="#settings" class="btn"><i class="fas fa-cog"></i>Check</a>
+              <div class="smenu">
+                <a href="updateteacher.html">Update Teacher Information</a>
+                <a href="updatestudent.html">Update Student Information</a>
+                <a href="updatesection.html">Update Section</a>
+                <a href="finantialreport.html">Check Financials</a>
+                <a href="createnotice.html">Create Notice</a>
+                <a href="managenotices.html">Manage Notices</a>
+              </div>
+          </li>
+
+
+          <li class="item">
+               <a class="btn" href="../login.html"><i class="fas fa-sign-out-alt"></i>Logout</a>
+           </li>
+
+  
+        </div>
+    </div>
+  </div>
+
+      <div class="col-md-1">
+
+      </div>
+
+
+    <div class="col-md-6"style="margin-top: 30px">
+      
+        
+        <h5><b>Create Notice</b></h5>
+        <br>
+      <table border="0">
+        <tr>
+          <td>
+            <label>Notice Title:</label>
+          </td>
+          <td>
+            <input type="text" id="noticetitle" >
+          </td>
+        </tr>
+
+        <tr>
+          <td>
+            <label>Notice Body</label>
+          </td>
+          <td>
+            <textarea name="" id="noticebody" cols="30" rows="10"></textarea>
+          </td>
+        </tr>
+
+        <tr>
+          <td>
+            <label>Posting Date</label>
+          </td>
+          <td>
+            <input type="date" name="" id="PostingTime">
+          </td>
+        </tr>
+        <!-- <tr>
+          <td colspan="2" align="middle">
+            
+            <input class="submit" type="submit" value="Create" id="createadminbutton">
+            <div id="createmessage">
+            	
+            </div>
+          </td>
+        </tr> -->
+      </table>
+      <br>
+      <button id="createnoticebutton">Create</button>
+            <div id="createmessage" style="margin-left:150px">
+    
+    </div>
+
+
+
+
+    <!-- <div class="col-md-2">
+
+    </div> -->
+
+  </div>
+
+</body>
+</html>

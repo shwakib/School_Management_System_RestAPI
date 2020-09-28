@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Manage Super Admin</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../../css/commondashboardstyle.css">
+  
+</head>
+<body>
+  <script type="text/javascript" src="../../js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="../../js/login/login.js"></script>
+  <script type="text/javascript" src="../../js/superadmin/managesuperadmin.js"></script>
+
+  <div class="row">
+    <div class="col-md-12">
+      <a href="../index.html"><img src="../../images/header.jpg" width=100%></a>
+    </div>
+    
+  </div>
+
+  <div class="row">
+    <div class="col-md-12">
+      
+    </div>
+    
+  </div>
+
+  <div class="row" >
+
+    <div class="col-md-4">
+      <div class="middle">
+        <div class="menu">
+          <li class="item" id='profile'>
+              <a href="#profile" class="btn"><i class="far fa-user"></i>Profile</a>
+              <div class="smenu">
+                <a href="updatesuperadmin.html">Update Profile</a>
+                
+              </div>
+          </li>
+
+          <li class="item" id="messages">
+              <a href="#messages" class="btn"><i class="far fa-envelope"></i>Manage</a>
+                <div class="smenu">
+                  <a href="managesuperadmin.html">Manage SuperAdmin</a>
+                  <a href="superadmindashboard.html">Create Admin</a>
+                  <a href="updateadmin.html">Update Admin</a>
+                </div>
+           </li>
+
+          <li class="item" id="settings">
+              <a href="#settings" class="btn"><i class="fas fa-cog"></i>Settings</a>
+                <div class="smenu">
+                  <a href="#">Update Password</a>
+                </div>
+          </li>
+
+          <li class="item">
+            <a class="btn" href="../login.html"><i class="fas fa-sign-out-alt"></i>Logout</a>
+           </li>
+
+  
+        </div>
+    </div>
+  </div>
+    
+      <div class="col-md-1">
+        
+      </div>
+
+  
+    <div class="col-md-3" style="margin-top: 50px">
+      <table border="1" id="superadmintable">
+        <tr>
+          <td>
+            Super Admin ID
+          </td>
+          <td>
+            Super Admin Name
+          </td>
+        </tr>
+      </table>
+    </div>
+    
+    <div class="col-md-1">
+        
+      </div>
+
+  
+    <div class="col-md-3" style="margin-top: 30px">
+      <table >
+        <tr>
+          <td>
+            
+              <label>Select any superAdmin:</label>
+          </td>
+          <td>
+            <select id="dropdownsuperadmin">
+              
+            </select>
+          </td>
+        </tr>
+        <tr>
+          <table border="1" id="specificsuperadmintable">
+        <tr>
+          <td>
+            Super Admin ID
+          </td>
+          <td>
+            Super Admin Name
+          </td>
+        </tr>
+      </table>
+        </tr>
+      </table>
+    </div>
+    
+  </div>
+
+</body>
+</html>

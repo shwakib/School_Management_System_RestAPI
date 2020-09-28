@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Update Profile</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../../css/commondashboardstyle.css">
+  
+</head>
+<body>
+<script type="text/javascript" src="../../js/jquery-3.5.1.js"></script>
+<script src="../../js/extras/jquery.validate.js"></script>
+<script type="text/javascript" src="../../js/student/updatestudent.js"></script>
+  <div class="row">
+    <div class="col-md-12">
+      <a href="../index.html"><img src="../../images/header.jpg" width=100% alt="no"></a>
+    </div>
+  			
+    <div class="middle">
+      <div class="menu">
+        <li class="item" id='profile'>
+            <a href="#profile" class="btn"><i class="far fa-user"></i>Profile</a>
+            <div class="smenu">
+              <a href="studentprofile.html">Update Profile</a>
+              
+            </div>
+        </li>
+
+        <li class="item" id="messages">
+            <a href="#messages" class="btn"><i class="far fa-envelope"></i>Check</a>
+              <div class="smenu">
+                <a href="studentnotice.html">Check Notice</a>
+                <a href="studentnote.html">Check Note</a>
+                <a href="studentassignment.html">Check & Upload Assignment</a>
+                <a href="studentgrade.html">Check Grade</a>
+              </div>
+         </li>
+
+        <li class="item">
+             <a class="btn" href="../login.html"><i class="fas fa-sign-out-alt"></i>Logout</a>
+         </li>
+
+
+      </div>
+  </div>
+</div>
+
+  		<!-- Page Content -->
+			<div style="margin-left:8%" >
+
+				<br>
+				<a href="studentdashboard.html">Back to Home</a>
+				<br>
+        <br>
+        <form action="" method="" id="update_student_form">
+				<fieldset>
+				<h4>Student Profile</h4>
+				<br>
+				<table border="0">
+					<tr>
+            <td>
+              <label>Student ID:</label>
+            </td>
+            <td>
+              <input type="text" name="studentid" id="studentid" readonly>
+            </td>
+          </tr>
+  
+          <tr>
+            <td>
+              <label>Student Name:</label>
+            </td>
+            <td>
+              <input type="text" name="studentname" id="studentname" readonly>
+            </td>
+          </tr>
+  
+          <tr>
+            <td>
+              <label>Student Password:</label>
+            </td>
+            <td>
+              <input type="password" name="studentpassword" id="studentpassword">
+            </td>
+          </tr>
+
+        
+
+          <tr>
+            <td>
+              <label>Student Date of Birth:</label>
+            </td>
+            <td>
+              <input type="date" name="studentdob" id="studentdob" readonly>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <label>Student Phone Number:</label>
+            </td>
+            <td>
+              <input type="Number" id="studentphone" id="studentphone" readonly>
+            </td>
+          </tr>
+
+          <tr>
+            <td>
+              <label>Student Address:</label>
+            </td>
+            <td>
+              <input type="text" name="studentaddress" id="studentaddress" autocomplete="off">
+            </td>
+          </tr>
+
+          <tr>
+            <td>
+              <label>Student Email:</label>
+            </td>
+            <td>
+              <input type="Email" name="studentemail" id="studentemail" autocomplete="off">
+            </td>
+          </tr>
+
+          <tr>
+            <td>
+              <label>Student Blood Group:</label>
+            </td>
+            <td>
+              <select id="sbg" name="sbg">
+                <option selected>Select One</option>
+                <option value="A+">A+</option>
+                <option value="B+">B+</option>
+                <option value="A-">A-</option>
+                <option value="AB+">AB+</option>
+                <option value="AB-">AB-</option>
+                <option value="O+">O+</option>
+                <option value="O-">O-</option>
+              </select>
+            </td>
+          </tr>
+    
+          <tr>
+            <td>
+              <label>Student Fees:</label>
+            </td>
+            <td>
+              <input type="Number" name="studentfees" id="studentfees" readonly>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <label>Class:</label>
+            </td>
+            <td>
+              <select name="classid" id="classid">
+
+              </select>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <label>Section:</label>
+            </td>
+            <td>
+              <select name="sectionid" id="sectionid">
+                
+              </select>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <!-- <button id="updatestudentbtn"> Update</button> -->
+              <input class="submit" type="submit" value="Update" id="updatestudentbtn" style="margin-left: 150px">
+              <div id="updatemessage">
+                
+              </div>
+            </td>
+        </tr>
+				</table>
+				<br>
+        </fieldset>
+      </form>
+			</div>
+</body>
+</html>

@@ -1,0 +1,12 @@
+<script>
+    $(document).ready(function () {
+        $("#classid").change(function() {
+            $.get("/Data/GetSection", {classid: $("#classid").val() }, function (data) {
+                $("#sectionid").empty();
+                $.each(data, function (index, row) {
+                    $("#sectionid").append("<option value='" + row.sectionid + "'>" + row.sectionname + "</option>")
+                });
+            });
+        })
+    });
+</script>

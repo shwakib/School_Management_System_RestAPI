@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>test</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../../css/commondashboardstyle.css">
+  
+</head>
+<body>
+
+  <script type="text/javascript" src="../../js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="../../js/teacher/teachernote.js"></script>
+
+  <div class="row">
+    <div class="col-md-12">
+      <a href="../index.html"><img src="../../images/header.jpg" width=100% alt="no"></a>
+    </div>
+  			
+    <div class="middle">
+      <div class="menu">
+        <li class="item" id='profile'>
+            <a href="#profile" class="btn"><i class="far fa-user"></i>Profile</a>
+            <div class="smenu">
+              <a href="teacherprofile.html">Update Profile</a>
+              
+            </div>
+        </li>
+
+        <li class="item" id="messages">
+            <a href="#messages" class="btn"><i class="far fa-envelope"></i>Upload</a>
+              <div class="smenu">
+                <a href="teachernotice.html">Upload Notice</a>
+                <a href="teachernote.html">Upload Note</a>
+                <a href="teacherassignment.html">Upload Assignment</a>
+                <a href="teachergrade.html">Upload Grade</a>
+                <a href="updatenotice.html">Update Notice</a>
+              </div>
+         </li>
+
+         <li class="item" id="settings">
+          <a href="#settings" class="btn"><i class="fas fa-cog"></i>Check</a>
+            <div class="smenu">
+              <a href="checkgrade.html">Check Grade</a>
+              <a href="checknotice.html">Check Notice</a>
+              <a href="updategrade.html">Update Grade</a>
+              
+            </div>
+        </li>
+
+        <li class="item">
+             <a class="btn" href="../login.html"><i class="fas fa-sign-out-alt"></i>Logout</a>
+         </li>
+
+
+      </div>
+  </div>
+</div>
+
+  		<!-- Page Content -->
+			<div style="margin-top:2% ;margin-left:2%" class="w3-container">
+				
+        <a href="teacherdashboard.html">Back to Home</a>
+				<br>
+				<br>
+				<fieldset>
+
+          <h4>Check Notes</h4>
+          <br>
+          <label for="">Class:</label>
+          <select name="classid_view" id="classid_view">
+            <!-- <option value="">Play hardcoded</option> -->
+          </select> 
+          &nbsp;
+          &nbsp;
+          <label for="">Section:</label>
+          <select name="sectionid_view" id="sectionid_view">
+            <!-- <option value="">A hardcoded</option> -->
+          </select>           
+          &nbsp;
+          &nbsp;
+          <label for="">Subject:</label>
+          <select name="subjectid_view" id="subjectid_view">
+            <!-- <option value="">Bangla hardcoded</option> -->
+          </select>
+          &nbsp;
+          &nbsp;
+             				
+  
+  				<table border="1" id="notes_View">
+  				  	
+  				  	<tr>
+  				  		<th width="200px">Notes Title</th>
+  				  		<th width="200px">File</th>
+                <th width="200px">Post Date</th>
+  				  	</tr>
+  				  	<tr>
+  				  		<td></td>
+  				  		<td></td>
+                <td></td>
+  				  	</tr>
+  
+				  </table>
+
+				</fieldset>
+        <br>
+        <br>
+        <br>
+        <form enctype="multipart/form-data">
+        <fieldset>
+          <h4>Upload Notes</h4>
+          <br>
+          <label for="">Class:</label>
+          <select name="classid_upload" id="classid_upload">
+            <!-- <option value="">Play hardcoded</option> -->
+          </select> 
+          &nbsp;
+          &nbsp;
+          <label for="">Section:</label>
+          <select name="sectionid_upload" id="sectionid_upload">
+            <!-- <option value="">A hardcoded</option> -->
+          </select>           
+          &nbsp;
+          &nbsp;
+          <label for="">Subject:</label>
+          <select name="subjectid_upload" id="subjectid_upload">
+            <!-- <option value="">Bangla hardcoded</option> -->
+          </select>
+          <br>
+          <br>
+          <label for="">Note Title:</label>
+          <input type="text" name="ass_title" id="ass_title">
+          &nbsp;
+          &nbsp;
+          <label for="">Note File Name:</label>
+          <input type="text" name="ass_name" id="ass_name" readonly>
+          &nbsp;
+          &nbsp;
+          <label for="">Post Date:</label>
+          <input type="datetime-local" name="post_date" id="post_date" readonly>
+          
+          
+          <br>
+          <br>
+          <table border="0">
+              
+              <tr>
+                <td width="200px"><b>Upload Note</b></td>
+                <td width="150px"><input type="file" id="uploadfile"></td>
+              </tr>
+  
+          </table>
+          <br>
+          <input type="button" value="Upload" name="upload_btn" id="upload_btn" style="margin-left: 200px">
+          <div id="uploadmessage">
+                
+          </div>
+          </fieldset>
+        </form> 
+			</div>
+</body>
+</html>

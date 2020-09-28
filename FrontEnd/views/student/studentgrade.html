@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>test</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../../css/commondashboardstyle.css">
+  
+</head>
+<body>
+
+  <script src="../../js/jquery-3.5.1.js"></script>
+  <script src="../../js/student/studentgrade.js"></script>
+  <script src="../../js/jquery.min.js"></script>
+    <script src="../../js/jspdf.min.js"></script>
+    <script>
+        function printpdf()
+        {
+            var doc = new jsPDF();
+            var elementHTML = $('#html2pdf').html();
+            var specialElementHandlers = {
+            '#elementH': function (element, renderer) {
+            return true;
+        }
+        };
+        doc.fromHTML(elementHTML, 50, 30, {
+    'width': 100,
+    'elementHandlers': specialElementHandlers
+});
+
+// Save the PDF
+doc.save('sample-document.pdf');
+        }
+    </script>
+  
+
+
+  <div class="row">
+    <div class="col-md-12">
+      <a href="../index.html"><img src="../../images/header.jpg" width=100% alt="no"></a>
+    </div>
+  			
+    <div class="middle">
+      <div class="menu">
+        <li class="item" id='profile'>
+            <a href="#profile" class="btn"><i class="far fa-user"></i>Profile</a>
+            <div class="smenu">
+              <a href="studentprofile.html">Update Profile</a>
+              
+            </div>
+        </li>
+
+        <li class="item" id="messages">
+            <a href="#messages" class="btn"><i class="far fa-envelope"></i>Check</a>
+              <div class="smenu">
+                <a href="studentnotice.html">Check Notice</a>
+                <a href="studentnote.html">Check Note</a>
+                <a href="studentassignment.html">Check & Upload Assignment</a>
+                <a href="studentgrade.html">Check Grade</a>
+              </div>
+         </li>
+
+        <li class="item">
+             <a class="btn" href="../login.html"><i class="fas fa-sign-out-alt"></i>Logout</a>
+         </li>
+
+
+      </div>
+  </div>
+</div>
+
+      <!-- Page Content -->
+      
+      <div id="html2pdf">
+			<div style="margin-top:2% ;margin-left:2%" class="w3-container">
+				
+				<a href="studentdashboard.html">Back to Home</a>
+				<br>
+				<br>
+				<fieldset>
+        
+         <label for="">Subject:</label>
+          <select name="" id="subjectlist">
+            
+          </select>					
+
+				<table border="1" id="gradetable">
+					
+					<tr>
+						<th width="120px"><b>Quiz 1</b></th>
+						<th width="120px"><b>Quiz 2</b></th>
+            <th width="120px"><b>Assignment 1</b></th>
+            <th width="120px"><b>Half Yearly</b></th>
+            <th width="120px"><b>Quiz 3</b></th>
+            <th width="120px"><b>Quiz 4</b></th>
+            <th width="120px"><b>Assignment 2</b></th>
+            <th width="120px"><b>Final Exam</b></th>
+            <th width="120px"><b>Final Grade</b></th>
+          </tr>
+          <tr>
+            <td colspan="9" align="middle">
+              <button onclick="printpdf()">Print</button>
+            </td>
+          </tr>
+					
+
+				</table>
+
+				</fieldset>
+      </div>
+    </div>
+    <div id="elementH"></div>
+
+</body>
+</html>

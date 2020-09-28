@@ -1,0 +1,88 @@
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>FinancialReport</title>
+</head>
+<body allign="center">
+
+    <script type="text/javascript" src="../../js/jquery-3.5.1.js"></script>
+    <script type="text/javascript" src="../../js/admin/finantialreport.js"></script>
+    <script src="../../js/jquery.min.js"></script>
+    <script src="../../js/jspdf.min.js"></script>
+    <script>
+        function pdf()
+        {
+            var doc = new jsPDF('l');
+            var elementHTML = $('#contnet').html();
+            var specialElementHandlers = {
+            '#elementH': function (element, renderer) {
+            return true;
+        }
+        };
+        doc.fromHTML(elementHTML, 30, 5, {
+            'width': 140,
+            'elementHandlers': specialElementHandlers
+        });
+
+        // Save the PDF
+        doc.save('sample-document.pdf');
+        }
+    </script>
+     
+    <div id="contnet">
+        <h1 style="text-align:center">School Management System</h1>
+        <h3 style="text-align:center">Financial Report</h3>
+        <h3 style="text-align:center">Monthly Expense Report</h3>
+
+    <table align="center" border="1" cellpadding="5"  cellspacing="5" width="40%">
+        <tr>
+            <th style="text-align:center"><span style="font-size:20px">Category</span></th>
+            <th style="text-align:center"><span style="font-size:20px">Value</span></th>
+        </tr>
+        <tr>
+            <td style="text-align:center">Total Number of Students</td>
+            <td style="text-align:center">
+            	<label id="student_count"></label>
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align:center">Student Fee Total</td>
+            <td style="text-align:center">
+            	<label id="studentfee_total" for="studentfee_total"></label>
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align:center">Total Number of Teacher</td>
+            <td style="text-align:center">
+                <label id="teacher_count" for="teacher_count"></label>
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align:center">Teacher Salary Total</td>
+            <td style="text-align:center">
+                <label id="teachersalry_total" for="teachersalary_total"></label>
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><b>Total Income</b></td>
+            <td style="text-align: center">
+                <label id="account_total" for="account_total"></label>
+            </td>
+        </tr>
+    </table>
+    <br>
+
+    </div>
+
+    <button onclick="pdf()" style="margin-left: 700px;">Print</button>
+    
+    <a href="admindashboard.html" style="margin-left: 500px; margin-top: 300px;">Back</a>
+    
+</body>
+</html>
+
+
+

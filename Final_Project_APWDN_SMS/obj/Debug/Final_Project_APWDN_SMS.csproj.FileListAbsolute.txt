@@ -1,0 +1,571 @@
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.csproj.CoreCompileInputs.cache
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\Final_Project_APWDN_SMS.dll.config
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\Final_Project_APWDN_SMS.dll
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\Final_Project_APWDN_SMS.pdb
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\csc.exe
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\csc.exe.config
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\csc.rsp
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\csi.exe
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\csi.exe.config
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\csi.rsp
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.AppContext.dll
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Console.dll
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.IO.Compression.dll
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Net.Http.dll
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.ValueTuple.dll
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\vbc.exe
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\vbc.exe.config
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\vbc.rsp
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\EntityFramework.dll
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\EntityFramework.SqlServer.dll
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\Newtonsoft.Json.dll
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\System.Net.Http.Formatting.dll
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\System.Web.Http.dll
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\System.Web.Http.WebHost.dll
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\EntityFramework.xml
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\EntityFramework.SqlServer.xml
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\Newtonsoft.Json.xml
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\System.Net.Http.Formatting.xml
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\System.Web.Http.xml
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\System.Web.Http.WebHost.xml
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.csprojAssemblyReference.cache
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.csproj.CopyComplete
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.dll
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.pdb
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.Initial_DB.resources
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.csproj.GenerateResource.cache
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.add_amin_table.resources
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.admin_table_validation.resources
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.validaion_update_admin.resources
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.validation_student_update.resources
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.student_pass_val_up.resources
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.assignmentsubjectADD.resources
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.cournoticeclassADD.resources
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.gen_noticegradeADD.resources
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.home_routne_sectionADD.resources
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.super_teacher_timeslotADD.resources
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.tpeuploadADD.resources
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\System.Web.Cors.dll
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\System.Web.Http.Cors.dll
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\System.Web.Http.Cors.xml
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\Final_Project_APWDN_SMS.dll.config
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\Final_Project_APWDN_SMS.dll
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\Final_Project_APWDN_SMS.pdb
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\csc.exe
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\csc.exe.config
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\csc.rsp
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\csi.exe
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\csi.exe.config
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\csi.rsp
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.Managed.Core.targets
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.AppContext.dll
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Collections.Immutable.dll
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Console.dll
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Globalization.Calendars.dll
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.IO.Compression.dll
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.IO.FileSystem.dll
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Net.Http.dll
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Net.Sockets.dll
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Reflection.Metadata.dll
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.ValueTuple.dll
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Xml.XmlDocument.dll
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Xml.XPath.dll
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\vbc.exe
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\vbc.exe.config
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\vbc.rsp
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\VBCSCompiler.exe
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\VBCSCompiler.exe.config
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\EntityFramework.dll
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\EntityFramework.SqlServer.dll
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\Newtonsoft.Json.dll
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\System.Net.Http.Formatting.dll
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\System.Web.Cors.dll
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\System.Web.Http.Cors.dll
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\System.Web.Http.dll
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\System.Web.Http.WebHost.dll
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\EntityFramework.xml
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\EntityFramework.SqlServer.xml
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\System.Web.Http.Cors.xml
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\Newtonsoft.Json.xml
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\System.Net.Http.Formatting.xml
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\System.Web.Http.xml
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\System.Web.Http.WebHost.xml
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.Initial_DB.resources
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.add_amin_table.resources
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.admin_table_validation.resources
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.validaion_update_admin.resources
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.validation_student_update.resources
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.student_pass_val_up.resources
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.assignmentsubjectADD.resources
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.cournoticeclassADD.resources
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.gen_noticegradeADD.resources
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.home_routne_sectionADD.resources
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.super_teacher_timeslotADD.resources
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.tpeuploadADD.resources
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.csproj.GenerateResource.cache
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.csproj.CoreCompileInputs.cache
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.csproj.CopyComplete
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.dll
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.pdb
+G:\semester 11\ASP.NET\FINAL\Final project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.csprojAssemblyReference.cache
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.addassignment_t.resources
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.addassignment_s.resources
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.assignmenttablefinalize.resources
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.changegradetable.resources
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.changegradetable_again.resources
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.addassignmentmapping.resources
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\Final_Project_APWDN_SMS.dll.config
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\Final_Project_APWDN_SMS.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\Final_Project_APWDN_SMS.pdb
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\csc.exe
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\csc.exe.config
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\csc.rsp
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\csi.exe
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\csi.exe.config
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\csi.rsp
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.Managed.Core.targets
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.AppContext.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Collections.Immutable.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Console.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Globalization.Calendars.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.IO.Compression.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.IO.FileSystem.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Net.Http.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Net.Sockets.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Reflection.Metadata.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.ValueTuple.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Xml.XmlDocument.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Xml.XPath.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\vbc.exe
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\vbc.exe.config
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\vbc.rsp
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\VBCSCompiler.exe
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\VBCSCompiler.exe.config
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\EntityFramework.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\EntityFramework.SqlServer.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\Newtonsoft.Json.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\System.Net.Http.Formatting.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\System.Web.Cors.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\System.Web.Http.Cors.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\System.Web.Http.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\System.Web.Http.WebHost.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\EntityFramework.xml
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\EntityFramework.SqlServer.xml
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\System.Web.Http.Cors.xml
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\Newtonsoft.Json.xml
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\System.Net.Http.Formatting.xml
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\System.Web.Http.xml
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\System.Web.Http.WebHost.xml
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.Initial_DB.resources
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.add_amin_table.resources
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.admin_table_validation.resources
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.validaion_update_admin.resources
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.validation_student_update.resources
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.student_pass_val_up.resources
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.assignmentsubjectADD.resources
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.cournoticeclassADD.resources
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.gen_noticegradeADD.resources
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.home_routne_sectionADD.resources
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.super_teacher_timeslotADD.resources
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.tpeuploadADD.resources
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.addassignment_t.resources
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.addassignment_s.resources
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.assignmenttablefinalize.resources
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.changegradetable.resources
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.changegradetable_again.resources
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.addassignmentmapping.resources
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.csproj.GenerateResource.cache
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.csproj.CoreCompileInputs.cache
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.csproj.CopyComplete
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.pdb
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.updateteachertable.resources
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.csprojAssemblyReference.cache
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.updateteachertable.resources
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.dropassignmentmap.resources
+C:\Users\rayma\OneDrive\AIUB\ATP .NET\FINAL TERM\Project\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.student_idinassignment.resources
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\Final_Project_APWDN_SMS.dll.config
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\Final_Project_APWDN_SMS.dll
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\Final_Project_APWDN_SMS.pdb
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\csc.exe
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\csc.exe.config
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\csc.rsp
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\csi.exe
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\csi.exe.config
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\csi.rsp
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.AppContext.dll
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Console.dll
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.IO.Compression.dll
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Net.Http.dll
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.ValueTuple.dll
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\vbc.exe
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\vbc.exe.config
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\vbc.rsp
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\EntityFramework.dll
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\EntityFramework.SqlServer.dll
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\Newtonsoft.Json.dll
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\System.Net.Http.Formatting.dll
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\System.Web.Cors.dll
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\System.Web.Http.Cors.dll
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\System.Web.Http.dll
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\System.Web.Http.WebHost.dll
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\EntityFramework.xml
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\EntityFramework.SqlServer.xml
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\System.Web.Http.Cors.xml
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\Newtonsoft.Json.xml
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\System.Net.Http.Formatting.xml
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\System.Web.Http.xml
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\System.Web.Http.WebHost.xml
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.csprojAssemblyReference.cache
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.Initial_DB.resources
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.add_amin_table.resources
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.admin_table_validation.resources
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.validaion_update_admin.resources
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.validation_student_update.resources
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.student_pass_val_up.resources
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.assignmentsubjectADD.resources
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.cournoticeclassADD.resources
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.gen_noticegradeADD.resources
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.home_routne_sectionADD.resources
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.super_teacher_timeslotADD.resources
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.tpeuploadADD.resources
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.addassignment_t.resources
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.addassignment_s.resources
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.assignmenttablefinalize.resources
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.changegradetable.resources
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.changegradetable_again.resources
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.addassignmentmapping.resources
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.updateteachertable.resources
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.dropassignmentmap.resources
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.student_idinassignment.resources
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.csproj.GenerateResource.cache
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.csproj.CoreCompileInputs.cache
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.csproj.CopyComplete
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.dll
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.pdb
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.updategradetable.resources
+C:\Users\sifat\OneDrive\Desktop\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.updatenotetable.resources
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\Final_Project_APWDN_SMS.dll.config
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\Final_Project_APWDN_SMS.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\Final_Project_APWDN_SMS.pdb
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\csc.exe
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\csc.exe.config
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\csc.rsp
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\csi.exe
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\csi.exe.config
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\csi.rsp
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.Managed.Core.targets
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.AppContext.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Collections.Immutable.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Console.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Globalization.Calendars.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.IO.Compression.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.IO.FileSystem.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Net.Http.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Net.Sockets.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Reflection.Metadata.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.ValueTuple.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Xml.XmlDocument.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Xml.XPath.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\vbc.exe
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\vbc.exe.config
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\vbc.rsp
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\VBCSCompiler.exe
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\VBCSCompiler.exe.config
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\EntityFramework.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\EntityFramework.SqlServer.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\Newtonsoft.Json.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\System.Net.Http.Formatting.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\System.Web.Cors.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\System.Web.Http.Cors.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\System.Web.Http.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\System.Web.Http.WebHost.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\EntityFramework.xml
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\EntityFramework.SqlServer.xml
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\System.Web.Http.Cors.xml
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\Newtonsoft.Json.xml
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\System.Net.Http.Formatting.xml
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\System.Web.Http.xml
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\System.Web.Http.WebHost.xml
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.csprojAssemblyReference.cache
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.Initial_DB.resources
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.add_amin_table.resources
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.admin_table_validation.resources
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.validaion_update_admin.resources
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.validation_student_update.resources
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.student_pass_val_up.resources
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.assignmentsubjectADD.resources
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.cournoticeclassADD.resources
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.gen_noticegradeADD.resources
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.home_routne_sectionADD.resources
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.super_teacher_timeslotADD.resources
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.tpeuploadADD.resources
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.addassignment_t.resources
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.addassignment_s.resources
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.assignmenttablefinalize.resources
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.changegradetable.resources
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.changegradetable_again.resources
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.addassignmentmapping.resources
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.updateteachertable.resources
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.dropassignmentmap.resources
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.student_idinassignment.resources
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.updategradetable.resources
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.updatenotetable.resources
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.csproj.GenerateResource.cache
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.csproj.CoreCompileInputs.cache
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.csproj.CopyComplete
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.dll
+G:\semester 11\ASP.NET\FINAL\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.pdb
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\Final_Project_APWDN_SMS.dll.config
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\Final_Project_APWDN_SMS.dll
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\Final_Project_APWDN_SMS.pdb
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\csc.exe
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\csc.exe.config
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\csc.rsp
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\csi.exe
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\csi.exe.config
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\csi.rsp
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.AppContext.dll
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Console.dll
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.IO.Compression.dll
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Net.Http.dll
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.ValueTuple.dll
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\vbc.exe
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\vbc.exe.config
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\vbc.rsp
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\EntityFramework.dll
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\EntityFramework.SqlServer.dll
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\Newtonsoft.Json.dll
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\System.Net.Http.Formatting.dll
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\System.Web.Cors.dll
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\System.Web.Http.Cors.dll
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\System.Web.Http.dll
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\System.Web.Http.WebHost.dll
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\EntityFramework.xml
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\EntityFramework.SqlServer.xml
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\System.Web.Http.Cors.xml
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\Newtonsoft.Json.xml
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\System.Net.Http.Formatting.xml
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\System.Web.Http.xml
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\System.Web.Http.WebHost.xml
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.csprojAssemblyReference.cache
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.Initial_DB.resources
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.add_amin_table.resources
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.admin_table_validation.resources
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.validaion_update_admin.resources
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.validation_student_update.resources
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.student_pass_val_up.resources
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.assignmentsubjectADD.resources
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.cournoticeclassADD.resources
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.gen_noticegradeADD.resources
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.home_routne_sectionADD.resources
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.super_teacher_timeslotADD.resources
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.tpeuploadADD.resources
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.addassignment_t.resources
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.addassignment_s.resources
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.assignmenttablefinalize.resources
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.changegradetable.resources
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.changegradetable_again.resources
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.addassignmentmapping.resources
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.updateteachertable.resources
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.dropassignmentmap.resources
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.student_idinassignment.resources
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.updategradetable.resources
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.Migrations.updatenotetable.resources
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.csproj.GenerateResource.cache
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.csproj.CoreCompileInputs.cache
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.csproj.CopyComplete
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.dll
+C:\Users\sifat\Downloads\Final_Project_APWDN_SMS (1)\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\Final_Project_APWDN_SMS\obj\Debug\Final_Project_APWDN_SMS.pdb

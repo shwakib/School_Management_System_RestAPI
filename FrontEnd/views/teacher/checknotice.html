@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>test</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../../css/commondashboardstyle.css">
+  
+</head>
+<body>
+  <script src="../../js/jquery-3.5.1.js"></script>
+  <script src="../../js/teacher/checknotice.js"></script>
+
+  <div class="row">
+    <div class="col-md-12">
+      <a href="../index.html"><img src="../../images/header.jpg" width=100% alt="no"></a>
+    </div>
+  			
+    <div class="middle">
+      <div class="menu">
+        <li class="item" id='profile'>
+            <a href="#profile" class="btn"><i class="far fa-user"></i>Profile</a>
+            <div class="smenu">
+              <a href="teacherprofile.html">Update Profile</a>
+              
+            </div>
+        </li>
+
+        <li class="item" id="messages">
+            <a href="#messages" class="btn"><i class="far fa-envelope"></i>Upload</a>
+              <div class="smenu">
+                <a href="teachernotice.html">Upload Notice</a>
+                <a href="teachernote.html">Upload Note</a>
+                <a href="teacherassignment.html">Upload Assignment</a>
+                <a href="teachergrade.html">Upload Grade</a>
+                <a href="updatenotice.html">Update Notice</a>
+              </div>
+         </li>
+
+         <li class="item" id="settings">
+          <a href="#settings" class="btn"><i class="fas fa-cog"></i>Check</a>
+            <div class="smenu">
+              <a href="checkgrade.html">Check Grade</a>
+              <a href="checknotice.html">Check Notice</a>
+              <a href="updategrade.html">Update Grade</a>
+              
+            </div>
+        </li>
+
+        <li class="item">
+             <a class="btn" href="../login.html"><i class="fas fa-sign-out-alt"></i>Logout</a>
+         </li>
+
+
+      </div>
+  </div>
+</div>
+
+  		<!-- Page Content -->
+			<div style="margin-top:2% ;margin-left:2%" class="w3-container">
+				
+        <a href="teacherdashboard.html">Back to Home</a>
+				<br>
+				<br>
+
+        <h4>Post Grade</h4>
+        <br>
+        <label for="">Class:</label>
+            <select name="" id="noticeclasstable">
+
+             </select> 
+        &nbsp;
+        &nbsp;
+        <label for="">Section:</label>
+        <select name="" id="noticesectiontable">
+          
+        </select>           
+        &nbsp;
+        &nbsp;
+        <label for="">Subject:</label>
+        <select name="" id="noticesubjecttable">
+          
+        </select>
+        &nbsp;
+        &nbsp;
+                    				
+             <br> 
+             <br>
+             <br>
+             <table border="1" id="noticetable" width="600px">
+					
+                <tr>
+                    <th width="120px"><b>Notice Subject</b></th>
+                    <th width="120px"><b>Notice Description</b></th>
+                    
+        
+                </tr>
+                
+
+            </table>
+
+			</div>
+</body>
+</html>
